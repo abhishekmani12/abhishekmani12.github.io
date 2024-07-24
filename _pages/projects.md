@@ -44,10 +44,6 @@ Given a text corpus, the script extracts the most important keywords and tries t
 This was created as I wanted a straightforward way of extracting paragraph content easily for my Local-Mini-GPT Project, rather than relying on a complex library.
 - [Github Repo](https://github.com/abhishekmani12/Wiki-Content-Retriever) 
 
-## Rent Predictor:
-Performed may steps of data cleaning and transformation operations to make it suitable for training on various boosting algorithms. This was created as part of a virtual hackathon which provided a raw dataset from MagicBricks with the aim of predicting rent for houses in Bangalore.
-- [Github Repo](https://github.com/abhishekmani12/Machine-Knight-Hackathon) 
-
 ## Ageing Detector:
 A simple Deep Learning Classifier which identifies different types of skin defects which are often associated with ageing. Close to 2000 images were manually collected for each type of defect, image transformations and augmentations  were performed to make the system robust.
 - [Github Repo](https://github.com/abhishekmani12/Signs-of-Ageing) 
