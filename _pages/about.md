@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abhishek Manikandan"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I'm a Data Science enthusiast currently working as a Software Developer/Analyst at a cybersecurity company. I usually work with Linux servers and scripting languages like Python and shell to do various backend tasks. 
+Hi there! I'm a ***Data Science enthusiast*** currently working as a ***Software Developer/Analyst*** at a cybersecurity company. I usually work with Linux servers and scripting languages like Python and shell to do various backend tasks. 
 
 Apart from work, I try to learn about new machine learning and deep learning concepts and approaches to keep myself updated in this field. I implement what I've learned and read, through various projects to build my skills.
 

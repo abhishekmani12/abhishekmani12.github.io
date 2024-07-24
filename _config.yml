@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhishek Manikandan's Personal Website"
+title                    : "Abhishek Manikandan"
 title_separator          : "-"
 name                     : &name "Abhishek Manikandan"
 description              : &description "personal description"
