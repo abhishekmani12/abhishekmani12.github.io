@@ -14,7 +14,7 @@ This was my capstone project for my 4th Year CSE UG degree.
 
 ## Visual Attendance Tracker:
 A multi model deep learning system which tracks daily attendance through facial recognition with a live camera feed.  
-It uses facial vector embeddings of each face and uses a SVM/KNN algorithm to discern faces, it also has a provision for instant face training (~1s) by taking 5 photos automatically in various angles. Updates records and provides a simple interface to interact with it. Deployment test on edge devices was successful.  
+It uses facial vector embeddings of each face and uses a SVM/KNN algorithm to discern faces, it also has a provision for instant face training (~1s) by taking 5 photos automatically in various angles. It updates records and provides a simple interface to interact with it. Deployment test on edge devices was successful.  
 This was developed for my 3rd year CSE UG Degree Capstone Project.
 - [Github Repo](https://github.com/abhishekmani12/Visual_Attendance_Tracking) 
 
@@ -26,7 +26,7 @@ This was created as part of an Academic Internship Program at the National Unive
 
 ## Certificate based SSH Login:
 Created a utility executable tool which enables Certificate Based SSH login from a Client to multiple listed new servers at an instant with on demand user creations as well.  
-Certificate Signing, Key Pair exchange process are all automated. As a result this tool saves around 30 minutes which is required for the connection setup between a single pair of a client and a server, when done manually. This was created for Linux to Linux as well as Windows to Linux connections. 
+Certificate Signing, Key Pair exchange process are all automated. As a result this tool saves around 30 minutes which is required for the connection setup between a single client-server pair, when done manually. This was created for Linux to Linux as well as Windows to Linux connections. 
 - Closed Source
 
 ## SNOMED CT Code Generation:
@@ -35,7 +35,7 @@ Extensive prompt engineering was done to get the required outputs from both the 
 - Closed Source
 
 ## Study of Mask Detection Systems:
-Various Architectures of CNN Models, One Shot Detectors were trained and tested on different custom datasets to create an efficient and deployable solution to classify if a person was wearing a mask or not.  
+Various Architectures of CNN Models, One Shot Detectors were trained and tested on different custom datasets to create an efficient and deployable solution to classify if a person is wearing a mask or not.  
 This project was developed with the intention of deploying it to a mask dispensing robot that could provide masks immediately to people who were not wearing masks. This was created for the Department of CSE at my university.
 - [Github Repo](https://github.com/abhishekmani12/Mask_Detector)
 
@@ -50,6 +50,6 @@ A simple Deep Learning Classifier which identifies different types of skin defec
 
 
 ## Web Scrapper and Sentiment Analyzer:
-Scrapes textual data from articles via xpath, cleans, processes data and performs sentiment analysis automatically,implemented custom stop words pertaining to various domain terminologies. This script was tested on 150+ articles.
+Scrapes textual data from articles via xpath, cleans, processes data and performs sentiment analysis automatically, implemented custom stop words pertaining to various domain terminologies. This script was tested on 150+ articles.
 - [Github Repo](https://github.com/abhishekmani12/Scrapping-and-Sentiment-Analysis) 
 
